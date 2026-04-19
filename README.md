@@ -139,6 +139,6 @@ Harshit
 
 ---
 
-## 📌 Note
+##  Note
 
 A very high λ can lead to **over-pruning**, where all weights are removed, reducing model performance.
